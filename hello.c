@@ -1,6 +1,4 @@
-/*
- *  hello.c
- */
+// hello.c
 
 #include <stdio.h>
 
